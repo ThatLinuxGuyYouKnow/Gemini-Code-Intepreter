@@ -6,7 +6,6 @@ from dotenv import load_dotenv
 # Load environment variables from .env file
 load_dotenv()
 
-
 # Access environment variables
 PROJECT_ID = os.getenv('PROJECT_ID')
 LOCATION = os.getenv('LOCATION')
