@@ -83,7 +83,7 @@ def send_chat_message(prompt):
     """ + prompt
 
     response = chat.send_message(combined_prompt)
-    display(Markdown("#### Sent chat successfully"))
+    display(Markdown("#### Sent chat successfully !"))
 
     function_calling_in_process = True
     while function_calling_in_process:
