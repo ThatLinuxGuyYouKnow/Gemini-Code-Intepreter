@@ -1,5 +1,5 @@
 # Gemini-Code-Intepreter
-Googles Gemini Model with the ability to execute code using a code intepreter
+Googles Gemini Model with the ability to execute code using a code intepreter using function calling
 # AI Code Interpreter Project
 
 This project leverages IPython, Vertex AI, and a generative model to interpret and execute Python code within a secure environment. The setup uses environment variables to manage sensitive information securely.
